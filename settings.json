@@ -16,5 +16,23 @@
     "alOutline.completionProviders": [
         "VariableNamesWithType"
     ],
+    "alOutline.codeCleanupActions": [
+        "RemoveBeginEnd",
+        "RemoveEmptyLines",
+        "TrimTrailingWhitespace",
+        "RemoveUnusedVariables",
+        "RemoveEmptyTriggers",
+        "RemoveEmptySections"
+    ],
+    "alOutline.defaultRemoveUnusedVariablesSettings": {
+        "removeGlobalVariables": true,
+        "removeLocalVariables": true,
+        "removeLocalMethodParameters": true
+    },
+    "alOutline.defaultRemoveEmptyTriggersSettings": {
+        "removeTriggers": true,
+        "removeSubscribers": true,
+        "ignoreComments": false
+    },
     "al.browser": "Chrome"
 }
