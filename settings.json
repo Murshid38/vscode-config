@@ -1,0 +1,20 @@
+{
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#ffffff",
+        "terminalCursor.foreground": "#ffffff"
+    },
+    "editor.fontFamily": "JetBrains Mono",
+    "window.zoomLevel": 1,
+    "editor.lineHeight": 22,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
+    "al.enableCodeActions": true,
+    "alOutline.completionProviders": [
+        "VariableNamesWithType"
+    ],
+    "al.browser": "Chrome"
+}
